@@ -1,0 +1,5 @@
+training_output.csv
+vocab/in_vocab
+vocab/intent_vocab
+vocab/slot_vocab
+model
